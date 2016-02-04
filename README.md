@@ -20,4 +20,4 @@ After finishing runing the script:
 tensorboard --logdir=/tmp/mnist_logs
 ```
 ##Presentation
-The presentation is available at: [https://docs.google.com/a/sfeir.com/presentation/d/1ch4YiKD83wERmmEFRvFIQ98Mtz65aGsLP3uWiTElY2I/edit?usp=sharing](https://docs.google.com/a/sfeir.com/presentation/d/1ch4YiKD83wERmmEFRvFIQ98Mtz65aGsLP3uWiTElY2I/edit?usp=sharing)
+The presentation is available at: [https://docs.google.com/presentation/d/1ch4YiKD83wERmmEFRvFIQ98Mtz65aGsLP3uWiTElY2I/edit?usp=sharing](https://docs.google.com/presentation/d/1ch4YiKD83wERmmEFRvFIQ98Mtz65aGsLP3uWiTElY2I/edit?usp=sharing)
